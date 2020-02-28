@@ -2,16 +2,17 @@
   "Authors": ["Fonov V", "Evans AC", "Botteron K", "Almli CR", "McKinstry RC", "Collins DL"],
   "Acknowledgements": "Curated and added to TemplateFlow by Esteban O",
   "BIDSVersion": "1.1.0",
-  "HowToAcknowledge": "The two first publications indexed by the ReferencesAndLinks field should be referenced when using this atlas",
+  "HowToAcknowledge": "Reference the following entries from the ReferencesAndLinks field: {1, 2}",
   "Identifier": "MNIPediatricAsym",
   "License": "See LICENSE file",
   "Name": "MNI's unbiased standard MRI template for pediatric data from the 4.5 to 18.5y age range",
   "RRID": "SCR_008796",
-  "ReferencesAndLinks": [
-    "https://doi.org/10.1016/j.neuroimage.2010.07.033",
-    "https://doi.org/10.1016/S1053-8119(09)70884-5",
-    "http://nist.mni.mcgill.ca/?p=974",
-    "https://doi.org/10.1007/3-540-48714-X_16"],
+  "ReferencesAndLinks": {
+    "1": "https://doi.org/10.1016/j.neuroimage.2010.07.033",
+    "2": "https://doi.org/10.1016/S1053-8119(09)70884-5",
+    "3": "http://nist.mni.mcgill.ca/?p=974",
+    "4": "https://doi.org/10.1007/3-540-48714-X_16"
+  },
   "TemplateFlowVersion": "1.0.0",
   "cohort": {
     "1": {
