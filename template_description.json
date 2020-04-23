@@ -12,7 +12,7 @@
     "Esteban O"
   ],
   "Identifier": "MNIPediatricAsym",
-  "License": "See LICENSE file",
+  "License": "MIT-derived. See LICENSE file",
   "Name": "MNI's unbiased standard MRI template for pediatric data from the 4.5 to 18.5y age range",
   "RRID": "SCR_008796",
   "ReferencesAndLinks": [
