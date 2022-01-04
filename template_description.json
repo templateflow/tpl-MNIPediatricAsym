@@ -21,6 +21,7 @@
     "http://nist.mni.mcgill.ca/?p=974",
     "https://doi.org/10.1007/3-540-48714-X_16"
   ],
+  "Species": "Homo sapiens",
   "TemplateFlowVersion": "1.0.0",
   "cohort": {
     "1": {
